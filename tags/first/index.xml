@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>First on ExampleSite</title>
-    <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/tags/first/</link>
+    <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/tags/first/</link>
     <description>Recent content in First on ExampleSite</description>
     <image>
       <title>ExampleSite</title>
-      <url>https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://github.com/T0W3R-Su/T0W3R-Su.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.135.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate>
-    <atom:link href="https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/tags/first/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://github.com/T0W3R-Su/T0W3R-Su.github.io/tags/first/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 1st post</title>
-      <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/post/test/</link>
+      <link>https://github.com/T0W3R-Su/T0W3R-Su.github.io/post/test/</link>
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      <guid>https://github.com/T0W3R-Su/T0W3R-Su.github.io/Blog/post/test/</guid>
+      <guid>https://github.com/T0W3R-Su/T0W3R-Su.github.io/post/test/</guid>
       <description>Desc Text.</description>
     </item>
   </channel>
